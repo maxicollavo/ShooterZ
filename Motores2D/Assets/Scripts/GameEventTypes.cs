@@ -1,0 +1,4 @@
+﻿public enum GameEventTypes
+{
+    BallScore
+}
